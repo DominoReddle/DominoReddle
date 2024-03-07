@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Adrian Popa
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Data Analysis and I'm building my portfolio so I can land a job within the data field :)
 
 <!---
